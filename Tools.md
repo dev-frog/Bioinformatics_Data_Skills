@@ -2,7 +2,7 @@
 
 1. SAMTOOLS
 
-    SAMtools is a set of utilities for interacting with and post-processing short DNA sequence read alignments in the SAM, BAM and CRAM formats, written by Heng Li. These files are generated as output by short read aligners 
+    SAMtools is a set of utilities for interacting with and post-processing short DNA sequence read alignments in the SAM, BAM and CRAM formats, written by Heng Li. These files are generated as output by short read aligners
 
     ```bash
     $ samtools --version
