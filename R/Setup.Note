@@ -1,0 +1,12 @@
+# Setup Instruction
+
+```bash
+docker build -t r-environment .
+
+
+docker run --rm -v $(pwd):/usr/src/app r-environment
+
+
+docker run -it --rm r-environment R
+```
+

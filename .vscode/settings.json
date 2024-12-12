@@ -1,14 +1,29 @@
 {
-    "cSpell.enabledLanguageIds": [
-        "csharp",
-        "go",
-        "javascript",
-        "javascriptreact",
-        "php",
-        "plaintext",
-        "typescript",
-        "typescriptreact",
-        "yml",
-        "sql"
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "always",
+      "source.fixAll.format": "always"
+    },
+    "editor.rulers": [80],
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
     ],
-}
+    "files.trimTrailingWhitespace": true,
+    "javascript.preferences.quoteStyle": "single",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "cSpell.words": [
+      "Millisec",
+      "TEAMBD",
+      "tseslint",
+      "Finnhub",
+      "forex",
+      "Gestional",
+      "Laravel",
+      "unban",
+      "Watchlists"
+    ]
+  }
